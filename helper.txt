@@ -1,0 +1,100 @@
+public string pytanie
+        {
+            get
+            {
+                return textBoxQuestion.Text;
+            }
+            set
+            {
+                textBoxQuestion.Text = value;
+            }
+        }
+        public string odp1
+        {
+            get
+            {
+                return textBoxA.Text;
+            }
+            set
+            {
+                textBoxA.Text = value;
+            }
+        }
+        public string odp2
+        {
+            get
+            {
+                return textBoxB.Text;
+            }
+            set
+            {
+                textBoxB.Text = value;
+            }
+        }
+        public string odp3
+        {
+            get
+            {
+                return textBoxC.Text;
+            }
+            set
+            {
+                textBoxC.Text = value;
+            }
+        }
+        public string odp4
+        {
+            get
+            {
+                return textBoxD.Text;
+            }
+            set
+            {
+                textBoxD.Text = value;
+            }
+        }
+
+        public decimal num1
+        {
+            get
+            {
+                return numericUpDown1.Value;
+            }
+            set
+            {
+                numericUpDown1.Value=value;
+            }
+        }
+        public decimal num2
+        {
+            get
+            {
+                return numericUpDown1.Value;
+            }
+            set
+            {
+                numericUpDown1.Value = value;
+            }
+        }
+        public decimal num3
+        {
+            get
+            {
+                return numericUpDown1.Value;
+            }
+            set
+            {
+                numericUpDown1.Value = value;
+            }
+        }
+        public decimal num4
+        {
+            get
+            {
+                return numericUpDown1.Value;
+            }
+            set
+            {
+                numericUpDown1.Value = value;
+            }
+        }
